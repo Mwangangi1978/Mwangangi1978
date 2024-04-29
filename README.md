@@ -29,7 +29,7 @@ I'm Denis, an Electrical and Electronic Engineering student at the University of
 
 - [LinkedIn](https://www.linkedin.com/in/denis-mwangangi/)
 - [Twitter](https://twitter.com/DefiDenis)
-- Email: (mwangangidenis78@gmail.com)
+- [Email](mwangangidenis78@gmail.com)
 
 ## ⚡ Fun fact
 My debugging skills are legendary. I once cured a scorpion bite with toothpaste(don't recommend it though)
